@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "ci-cd-demonstration",
     "public": "public",
     "ignore": [
       "firebase.json",
